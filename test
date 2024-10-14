@@ -1,0 +1,4 @@
+#!/usr/bin/env php
+<?php
+system('./vendor/bin/phpunit --bootstrap vendor/autoload.php tests');
+?>
