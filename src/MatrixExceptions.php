@@ -1,5 +1,5 @@
 <?php
-namespace Zanderlewis\PhpMatrix\Exceptions;
+namespace Zanderlewis\PhpMatrix;
 
 use Exception;
 
